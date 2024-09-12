@@ -7,7 +7,6 @@ Este proyecto es un script que automatiza la búsqueda de productos en MercadoLi
 - **Lenguaje de programación**:Python
 - **Framework o Librerías**: 
   - ` Selenium` 
-  - Para otros lenguajes o tecnologías, especifica aquí las herramientas que utilizaste.
 - **Navegador**: Si usas Selenium, necesitarás un navegador como Chrome o Firefox, junto con su respectivo WebDriver.
 
 ## Instalación
